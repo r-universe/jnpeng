@@ -5,3 +5,9 @@
 [submodule "CoxPlus"]
 	path = CoxPlus
 	url = https://github.com/cran/CoxPlus
+[submodule "PanelCount"]
+	path = PanelCount
+	url = https://github.com/cran/PanelCount
+[submodule "endogeneity"]
+	path = endogeneity
+	url = https://github.com/cran/endogeneity
