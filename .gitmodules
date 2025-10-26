@@ -8,6 +8,9 @@
 [submodule "PanelCount"]
 	path = PanelCount
 	url = https://github.com/cran/PanelCount
+[submodule "PanelSelect"]
+	path = PanelSelect
+	url = https://github.com/cran/PanelSelect
 [submodule "endogeneity"]
 	path = endogeneity
 	url = https://github.com/cran/endogeneity
